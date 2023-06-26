@@ -57,7 +57,7 @@ I regularly write about my coding experiences, tutorials, and technology trends 
 
 ## **Contact**
 
-You can reach out to me via email at **[animesh@email.com](mailto:animesh@email.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/animesh)**.
+You can reach out to me via email at **[codingdud@email.com](mailto:codingdud@mail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/codingdud)**.
 
 Looking forward to collaborating and exploring exciting projects together!
 
