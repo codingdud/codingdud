@@ -57,7 +57,7 @@ I regularly write about my coding experiences, tutorials, and technology trends 
 
 ## **Contact**
 
-You can reach out to me via email at **[codingdud@email.com](mailto:codingdud@mail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/codingdud)**.
+You can reach out to me via email at **[codingdud@email.com](mailto:codingdud@mail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/coding-dude-115b14280)**.
 
 Looking forward to collaborating and exploring exciting projects together!
 
