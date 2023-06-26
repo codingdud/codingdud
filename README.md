@@ -53,7 +53,7 @@ A containerized Flask application for image classification. Utilizes a pre-train
 
 ## **Blog**
 
-I regularly write about my coding experiences, tutorials, and technology trends on my personal **[blog](https://animeshblog.com/)**. Feel free to check it out!
+I regularly write about my coding experiences, tutorials, and technology trends on my personal **[blog](https://blog.com/)**. Feel free to check it out!
 
 ## **Contact**
 
