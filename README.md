@@ -67,6 +67,8 @@ Looking forward to collaborating and exploring exciting projects together!
 
 [![codingdud's GitHub | Topics](https://stats.quine.sh/codingdud/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
 
+[![codingdud's GitHub | Languages](https://stats.quine.sh/codingdud/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
+
 
 ---
 
