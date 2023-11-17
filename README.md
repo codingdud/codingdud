@@ -1,4 +1,4 @@
-### Hi there 👋
+ii### Hi there 👋
 
 <!--
 **codingdud/codingdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,5 +72,5 @@ Looking forward to collaborating and exploring exciting projects together!
 
 ---
 
-Feel free to customize this README to reflect your own projects, skills, and interests. It's a great opportunity to showcase your work and engage with the GitHub community.
+Feel free to customize this README to reflect your own projects, skills, and interests. It's a great opportunity to showcase my work and engage with the GitHub community.
 
