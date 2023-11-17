@@ -64,3 +64,6 @@ Looking forward to collaborating and exploring exciting projects together!
 ---
 
 Feel free to customize this README to reflect your own projects, skills, and interests. It's a great opportunity to showcase your work and engage with the GitHub community.
+
+
+[![codingdud's GitHub | Stats](https://stats.quine.sh/codingdud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
