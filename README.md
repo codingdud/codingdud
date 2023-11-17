@@ -61,9 +61,14 @@ You can reach out to me via email at **[codingdud@email.com](mailto:codingdud@ma
 
 Looking forward to collaborating and exploring exciting projects together!
 
+
+
+[![codingdud's GitHub | Stats](https://stats.quine.sh/codingdud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
+
+[![codingdud's GitHub | Topics](https://stats.quine.sh/codingdud/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
+
+
 ---
 
 Feel free to customize this README to reflect your own projects, skills, and interests. It's a great opportunity to showcase your work and engage with the GitHub community.
 
-
-[![codingdud's GitHub | Stats](https://stats.quine.sh/codingdud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
