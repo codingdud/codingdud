@@ -6,7 +6,7 @@ Hello! I'm **codingdud**, a passionate developer and technology enthusiast. Welc
 
 - **Programming Languages**: C++, Python, JavaScript
 - **Web Development**: HTML, CSS, React.js, Next.js
-- **Mobile Development**: React Native, Swift
+- **Mobile Development**: React Native,
 - **Database**: MySQL, MongoDB
 - **Cloud Services**: AWS (EC2, S3, Lambda), Firebase
 - **Containerization**: Docker, Kubernetes
