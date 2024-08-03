@@ -1,66 +1,43 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**codingdud/codingdud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **codingdud**, a passionate developer and technology enthusiast. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and a glimpse into my coding journey. I'm constantly exploring new technologies and striving to improve my skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-## **Introduction**
-
-Hello! I'm codingdud, a passionate developer and technology enthusiast. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and a glimpse into my coding journey. I'm constantly exploring new technologies and striving to improve my skills.
-
-## **Skills**
+## Skills
 
 - **Programming Languages**: C++, Python, JavaScript
 - **Web Development**: HTML, CSS, React.js, Next.js
+- **Mobile Development**: React Native, Swift
 - **Database**: MySQL, MongoDB
-- **Cloud Services**: AWS (EC2, S3, Lambda)
-- **Containerization**: Docker
+- **Cloud Services**: AWS (EC2, S3, Lambda), Firebase
+- **Containerization**: Docker, Kubernetes
+- **CI/CD**: Jenkins, GitHub Actions
+- **Version Control**: Git, GitHub
+- **Testing**: Jest, Mocha, Chai
 - **Networking**: TCP/IP, DNS, HTTP
+- **Other Skills**: Agile Methodologies, RESTful API design
 
-## **Projects**
+## Work Experience
 
-### **Project 1: Image Gallery App (React.js)**
+- **Salesforce**: Learned Apex, Visualforce, and Lightning Web Components (LWC) for Salesforce development.
+- **ATG**: React native Developer.
 
-A responsive web application that displays a collection of images in a grid layout. Users can upload, search, and filter images based on various criteria. Technologies used: React.js, CSS, Firebase.
+## Projects
 
-### **Project 2: Online Bookstore (Next.js, MongoDB)**
+- ### [PhotoFlow](https://github.com/codingdud/PhotoFlow)
+  A dynamic photo sharing application allowing users to upload, comment, and like photos. Integrated social features like following users and a real-time notification system. Technologies used: React.js, Node.js, MongoDB, Socket.io.
 
-An e-commerce website for selling books online. Users can browse, search, and purchase books securely. Implemented user authentication, cart functionality, and integrated payment gateways. Technologies used: Next.js, MongoDB, Stripe API.
+- ### [AlgoDocHub](https://github.com/codingdud/AlgoDocHub)
+  A comprehensive documentation hub for various algorithms and data structures. Users can contribute by adding new algorithms or improving existing ones. Technologies used: Next.js, Markdown, MongoDB.
 
-### **Project 3: Dockerized Flask App (Python, Docker)**
+- ### [Minor Project](https://github.com/codingdud/minor-project)
+  This project provides a geospatial API to help students find nearby places relevant to their accommodation needs.
 
-A containerized Flask application for image classification. Utilizes a pre-trained machine learning model to classify images based on their content. Technologies used: Python, Flask, Docker.
 
-## **Contributions**
+## Contact
 
-- **[Repository 1](https://github.com/user/repo1)**: Contributed to the development of a REST API, implementing new features and improving performance.
-- **[Repository 2](https://github.com/user/repo2)**: Fixed bugs and optimized code for a JavaScript library, enhancing its functionality and stability.
-
-## **Blog**
-
-I regularly write about my coding experiences, tutorials, and technology trends on my personal **[blog](https://nextjsbasics.blogpost.com/)**. Feel free to check it out!
-
-## **Contact**
-
-You can reach out to me via email at **[codingdud@email.com](mailto:codingdud@mail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/coding-dude-115b14280)**.
+You can reach out to me via email at [codingdud@email.com](mailto:codingdud@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animeshsysop).
 
 Looking forward to collaborating and exploring exciting projects together!
-
 
 
 [![codingdud's GitHub | Stats](https://stats.quine.sh/codingdud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
