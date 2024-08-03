@@ -24,10 +24,10 @@ Hello! I'm **codingdud**, a passionate developer and technology enthusiast. Welc
 ## Projects
 
 - ### [PhotoFlow](https://github.com/codingdud/PhotoFlow)
-  A dynamic photo sharing application allowing users to upload, comment, and like photos. Integrated social features like following users and a real-time notification system. Technologies used: React.js, Node.js, MongoDB, Socket.io.
+  A dynamic photo sharing application allowing users to upload, comment, and like photos. Integrated social features like following users and a real-time notification system.
 
 - ### [AlgoDocHub](https://github.com/codingdud/AlgoDocHub)
-  A comprehensive documentation hub for various algorithms and data structures. Users can contribute by adding new algorithms or improving existing ones. Technologies used: Next.js, Markdown, MongoDB.
+  A comprehensive documentation hub for various algorithms and data structures. Users can contribute by adding new algorithms or improving existing ones.
 
 - ### [Minor Project](https://github.com/codingdud/minor-project)
   This project provides a geospatial API to help students find nearby places relevant to their accommodation needs.
