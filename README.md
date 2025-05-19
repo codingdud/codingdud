@@ -1,53 +1,73 @@
-# Hi there 👋
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"> <span style="font-size:1.5em;"><strong>(>_<)</strong></span>
+    <img align="right" src="https://komarev.com/ghpvc/?username=codingdud&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</div>
 
-Hello! I'm **codingdud**, a passionate developer and technology enthusiast. Welcome to my GitHub profile! Here, you'll find a collection of my projects, contributions, and a glimpse into my coding journey. I'm constantly exploring new technologies and striving to improve my skills.
+<div align="center">
+  <a href="https://linkedin.com/animeshsysop"><img src="https://img.shields.io/badge/LinkedIn-animeshsysop-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:codingdud@gmail.com"><img src="https://img.shields.io/badge/Email-codingdud%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/codingdud"><img src="https://img.shields.io/badge/GitHub-codingdud-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- <a href="tel:+918863813462"><img src="https://img.shields.io/badge/Phone-%2B91%208863813462-green?style=for-the-badge&logo=whatsapp&logoColor=white"/></a> -->
+</div>
 
-## Skills
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>  
 
-- **Programming Languages**: C++, Python, JavaScript
-- **Web Development**: HTML, CSS, React.js, Next.js
-- **Mobile Development**: React Native,
-- **Database**: MySQL, MongoDB
-- **Cloud Services**: AWS (EC2, S3, Lambda), Firebase
-- **Containerization**: Docker, Kubernetes
-- **CI/CD**: Jenkins, GitHub Actions
-- **Version Control**: Git, GitHub
-- **Testing**: Jest, Mocha, Chai
-- **Networking**: TCP/IP, DNS, HTTP
-- **Other Skills**: Agile Methodologies, RESTful API design
+## 💻 Skills
 
-## Work Experience
+<div align="center">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</div>
 
-- **Salesforce**: Learned Apex, Visualforce, and Lightning Web Components (LWC) for Salesforce development.
-- **ATG**: React native Developer.
+<div align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</div>
 
-## Projects
+## 💼 Experience
 
-- ### [PhotoFlow](https://github.com/codingdud/PhotoFlow)
-  A dynamic photo sharing application allowing users to upload, comment, and like photos. Integrated social features like following users and a real-time notification system.
+### System Development Intern | Feb 2025 - Present | Bengaluru
+- Implemented system tools using Rust, improving image conversion efficiency by 30%
+- Implemented automated testing frameworks, reducing manual testing by 40%
+### Mobile App Developer | Jun 2024 - Aug 2024 | Remote
+- Developed Android applications, including an EdTech platform
+- Enhanced UI/UX and API integration for seamless user experience
 
-- ### [AlgoDocHub](https://github.com/codingdud/AlgoDocHub)
-  A comprehensive documentation hub for various algorithms and data structures. Users can contribute by adding new algorithms or improving existing ones.
+## 🚀 Projects
 
-- ### [Minor Project](https://github.com/codingdud/minor-project)
-  This project provides a geospatial API to help students find nearby places relevant to their accommodation needs.
+<div align="center">
+  <a href="https://github.com/codingdud/form-easy">
+    <img src="https://img.shields.io/badge/Form_Easy-React.js_|_Node.js_|_MongoDB-blueviolet?style=for-the-badge" alt="Form Easy"/>
+  </a>
+  <a href="https://github.com/codingdud/finder">
+    <img src="https://img.shields.io/badge/Accommodation_Finder-React.js_|_Redux_|_Flask-blue?style=for-the-badge" alt="Student Accommodation Finder"/>
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/codingdud/webgen">
+    <img src="https://img.shields.io/badge/WebGen-React.js_|_Canvas_API-orange?style=for-the-badge" alt="WebGen"/>
+  </a>
+  <a href="https://github.com/codingdud/PhotoFlow">
+    <img src="https://img.shields.io/badge/PhotoFlow-React.js_|_Socket.io-green?style=for-the-badge" alt="PhotoFlow"/>
+  </a>
+</div>
 
-## Contact
+## 📊 GitHub Stats
 
-You can reach out to me via email at [codingdud@email.com](mailto:codingdud@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/animeshsysop).
-
-Looking forward to collaborating and exploring exciting projects together!
-
-
-[![codingdud's GitHub | Stats](https://stats.quine.sh/codingdud/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
-
-[![codingdud's GitHub | Topics](https://stats.quine.sh/codingdud/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
-
-[![codingdud's GitHub | Languages](https://stats.quine.sh/codingdud/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=codingdud)
-
-
----
-
-Feel free to customize this README to reflect your own projects, skills, and interests. It's a great opportunity to showcase my work and engage with the GitHub community.
-
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=codingdud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingdud&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div align="center">
+  <span style="font-weight:bold; font-size:1.1em;">Visitor Count:</span>
+  <img src="https://profile-counter.glitch.me/codingdud/count.svg" alt="Visitor Count" style="vertical-align:middle; margin-left:10px;"/>
+</div>
